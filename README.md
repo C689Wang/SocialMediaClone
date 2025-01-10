@@ -1,5 +1,14 @@
 # Reddit-Style Community Platform
 
+<img width="1559" alt="Screenshot 2025-01-10 at 4 51 17 PM" src="https://github.com/user-attachments/assets/a8ad3065-7a7b-42cb-b017-f3de6580384d" />
+
+<img width="1559" alt="Screenshot 2025-01-10 at 4 51 49 PM" src="https://github.com/user-attachments/assets/e7c6f0ed-7d9f-4139-8961-7d8fe65db44d" />
+
+<img width="1558" alt="Screenshot 2025-01-10 at 4 52 33 PM" src="https://github.com/user-attachments/assets/d1961c8c-e6b9-4672-aa5b-297efd9f2e1f" />
+
+<img width="1559" alt="Screenshot 2025-01-10 at 4 53 02 PM" src="https://github.com/user-attachments/assets/c477f128-7b18-4920-b197-868bee572be8" />
+
+
 A modern, feature-rich community platform built with Next.js, Firebase, and Chakra UI. This platform allows users to create communities, share posts, engage in discussions, and manage content in a Reddit-like environment.
 
 ## Features
