@@ -1,6 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Reddit-Style Community Platform
+
+A modern, feature-rich community platform built with Next.js, Firebase, and Chakra UI. This platform allows users to create communities, share posts, engage in discussions, and manage content in a Reddit-like environment.
+
+## Features
+
+### Authentication & User Management
+
+- 🔐 Email/Password authentication
+- 🔑 Google OAuth integration
+- 🔄 Password reset functionality
+- 👤 User profile management
+- 📝 Custom user snippets and community membership tracking
+
+### Community Features
+
+- 🏠 Create and manage communities
+- 🔒 Three privacy levels: Public, Restricted, and Private
+- 👑 Basic moderation features:
+  - Community image management
+  - Member count tracking
+  - Creator-only settings
+- 🖼️ Custom community banners and avatars
+- 📊 Community statistics
+
+### Post Management
+
+- 📝 Create, edit, and delete posts
+- 🖼️ Image upload support
+- ⬆️ Voting system
+- 💬 Commenting system
+- 🏷️ Post categorization
+
+### UI/UX Features
+
+- 📱 Responsive design for all devices
+- 🎨 Custom theming with Chakra UI
+- 🔍 Directory navigation system
+- 🏃‍♂️ Fast page loads with Next.js
+- 🎯 Real-time updates
+
+## Tech Stack
+
+### Frontend
+
+- **Next.js**: React framework for production
+- **TypeScript**: For type-safe code
+- **Chakra UI**: Component library for modern design
+- **Recoil**: State management
+- **React Icons**: Icon library
+
+### Backend & Services
+
+- **Firebase Authentication**: User management and authentication
+- **Cloud Firestore**: NoSQL database for storing communities, posts, and user data
+- **Firebase Storage**: Image and media storage
+- **Firebase Security Rules**: Data security and access control
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js (v14 or higher)
+- npm or yarn
+- Firebase account and project
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project
+bootstrapped with [`create-next-app`](https://github.com/
+vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
